@@ -1,0 +1,14 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "awsTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Hedstrom <josh.hedstrom@gmail.com> (https://www.jhedstrom.com)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.423.0"
+  }
+}
